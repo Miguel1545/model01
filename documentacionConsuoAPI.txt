@@ -1,0 +1,2 @@
+https://developer.mozilla.org/es/docs/Web/API/XMLHttpRequest
+https://learn.microsoft.com/es-es/azure/ai-services/custom-vision-service/use-prediction-api
